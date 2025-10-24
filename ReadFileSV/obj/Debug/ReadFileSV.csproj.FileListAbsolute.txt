@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\ReadFileSV\ReadFileSV\bin\Debug\ReadFileSV.exe.config
+C:\Users\Admin\source\repos\ReadFileSV\ReadFileSV\bin\Debug\ReadFileSV.exe
+C:\Users\Admin\source\repos\ReadFileSV\ReadFileSV\bin\Debug\ReadFileSV.pdb
+C:\Users\Admin\source\repos\ReadFileSV\ReadFileSV\obj\Debug\ReadFileSV.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ReadFileSV\ReadFileSV\obj\Debug\ReadFileSV.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ReadFileSV\ReadFileSV\obj\Debug\ReadFileSV.exe
+C:\Users\Admin\source\repos\ReadFileSV\ReadFileSV\obj\Debug\ReadFileSV.pdb
+C:\Users\Admin\source\repos\ReadFileSV\ReadFileSV\obj\Debug\ReadFileSV.exe.config
