@@ -6,3 +6,11 @@ C:\Users\Admin\source\repos\ReadFileSV\ReadFileSV\obj\Debug\ReadFileSV.csproj.Co
 C:\Users\Admin\source\repos\ReadFileSV\ReadFileSV\obj\Debug\ReadFileSV.exe
 C:\Users\Admin\source\repos\ReadFileSV\ReadFileSV\obj\Debug\ReadFileSV.pdb
 C:\Users\Admin\source\repos\ReadFileSV\ReadFileSV\obj\Debug\ReadFileSV.exe.config
+C:\Users\Admin\Documents\DoAnTinHoc-HK1\ReadFileSV\bin\Debug\ReadFileSV.exe.config
+C:\Users\Admin\Documents\DoAnTinHoc-HK1\ReadFileSV\bin\Debug\ReadFileSV.exe
+C:\Users\Admin\Documents\DoAnTinHoc-HK1\ReadFileSV\bin\Debug\ReadFileSV.pdb
+C:\Users\Admin\Documents\DoAnTinHoc-HK1\ReadFileSV\obj\Debug\ReadFileSV.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\DoAnTinHoc-HK1\ReadFileSV\obj\Debug\ReadFileSV.exe.config
+C:\Users\Admin\Documents\DoAnTinHoc-HK1\ReadFileSV\obj\Debug\ReadFileSV.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\DoAnTinHoc-HK1\ReadFileSV\obj\Debug\ReadFileSV.exe
+C:\Users\Admin\Documents\DoAnTinHoc-HK1\ReadFileSV\obj\Debug\ReadFileSV.pdb
