@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadFileWF", "ReadFileWF.csproj", "{93B4348F-1263-469F-BD7E-00B2D7DACF90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93B4348F-1263-469F-BD7E-00B2D7DACF90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93B4348F-1263-469F-BD7E-00B2D7DACF90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93B4348F-1263-469F-BD7E-00B2D7DACF90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93B4348F-1263-469F-BD7E-00B2D7DACF90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16447C65-C918-4F97-9473-0035C2048039}
+	EndGlobalSection
+EndGlobal
