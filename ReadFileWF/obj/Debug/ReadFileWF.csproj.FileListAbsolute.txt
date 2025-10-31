@@ -9,3 +9,14 @@ C:\Users\Admin\source\repos\ReadFileWF\obj\Debug\ReadFileWF.csproj.CoreCompileIn
 C:\Users\Admin\source\repos\ReadFileWF\obj\Debug\ReadFileWF.exe
 C:\Users\Admin\source\repos\ReadFileWF\obj\Debug\ReadFileWF.pdb
 C:\Users\Admin\source\repos\ReadFileWF\obj\Debug\ReadFileWF.exe.config
+C:\Users\Admin\Source\Repos\DoAnTinHoc-HK1\ReadFileWF\bin\Debug\ReadFileWF.exe.config
+C:\Users\Admin\Source\Repos\DoAnTinHoc-HK1\ReadFileWF\bin\Debug\ReadFileWF.exe
+C:\Users\Admin\Source\Repos\DoAnTinHoc-HK1\ReadFileWF\bin\Debug\ReadFileWF.pdb
+C:\Users\Admin\Source\Repos\DoAnTinHoc-HK1\ReadFileWF\obj\Debug\ReadFileWF.csproj.AssemblyReference.cache
+C:\Users\Admin\Source\Repos\DoAnTinHoc-HK1\ReadFileWF\obj\Debug\ReadFileWF.exe.config
+C:\Users\Admin\Source\Repos\DoAnTinHoc-HK1\ReadFileWF\obj\Debug\ReadFileWF.Form1.resources
+C:\Users\Admin\Source\Repos\DoAnTinHoc-HK1\ReadFileWF\obj\Debug\ReadFileWF.Properties.Resources.resources
+C:\Users\Admin\Source\Repos\DoAnTinHoc-HK1\ReadFileWF\obj\Debug\ReadFileWF.csproj.GenerateResource.cache
+C:\Users\Admin\Source\Repos\DoAnTinHoc-HK1\ReadFileWF\obj\Debug\ReadFileWF.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Source\Repos\DoAnTinHoc-HK1\ReadFileWF\obj\Debug\ReadFileWF.exe
+C:\Users\Admin\Source\Repos\DoAnTinHoc-HK1\ReadFileWF\obj\Debug\ReadFileWF.pdb
